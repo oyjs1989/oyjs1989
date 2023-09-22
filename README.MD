@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Deep Learning and Golang  
   
 
-- ❓ Ask me about anything related to Python and related technologies  
+- ❓ Ask me about anything related to Python and Go related technologies  
   
 
 <br/>  
